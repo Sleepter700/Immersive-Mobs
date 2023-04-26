@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.chicken": {
+      "geometry": "geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        },
+        {
+          "leg*": "Material.legs"
+        },
+        {
+          "comb": "Material.legs"
+        }
+      ],
+      "textures": [
+        "query.is_name_any('Copper Golem') ? Texture.default2 : query.is_name_any('Exposed Copper Golem') ? Texture.default3 : query.is_name_any('Weathered Copper Golem') ? Texture.default4 : query.is_name_any('Oxidized Copper Golem') ? Texture.default5 : query.is_name_any('Wax Covered Copper Golem') ? Texture.default6 : query.is_name_any('Pingu') ? Texture.default7 : query.is_name_any('Sporent') ? Texture.default8 : Texture.default"
+      ]
+    }
+  }
+}

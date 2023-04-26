@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-      "name": "§lImmerive Mobs v1",
-      "description": "By §6Sleepter700§r",
+      "name": "§lImmersive Pingu TAG",
+      "description": "Backport del mod ECOLOGICS (Requiere Max Better Mobs para funcionar) §6Sleepter700§r",
       "uuid": "d1bfad5d-33e4-4876-a4cc-c9c70719c383",
       "version": [1,0,0],
       "min_engine_version": [1,19,70]
