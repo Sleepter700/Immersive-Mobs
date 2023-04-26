@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "mob/chicken7.png",
+	"texture": "textures/entity/chicken.png",
 	"textureSize": [64, 102],
 	"models": [
 		{
@@ -50,7 +50,7 @@
 						{"coordinates": [-1, -1, -6, 2, 3, 2], "textureOffset": [53, 9]},
 						{"coordinates": [-4, 0, -4, 8, 5, 8], "textureOffset": [32, 47]},
 						{"coordinates": [-6, 5, -6, 12, 7, 12], "textureOffset": [0, 63]},
-						{"coordinates": [-1, 5, -1, 2, 3, 2], "textureOffset": [52, 9]},
+						{"coordinates": [-1, 5, -1, 2, 3, 2], "textureOffset": [52, 13]},
 						{"coordinates": [-1, 0, -6, 2, 2, 2], "textureOffset": [52, 19]},
 						{"coordinates": [-2, 8, -2, 4, 3, 4], "textureOffset": [48, 24]}
 					]
@@ -111,7 +111,7 @@
 			"boxes": [
 				{"coordinates": [-3, 0, -2, 3, 5, 3], "textureOffset": [26, 0]},
 				{"coordinates": [-4, 0, -2, 4, 5, 3], "textureOffset": [4, 52]},
-				{"coordinates": [-4, 0, -5, 4, 0, 3], "textureOffset": [49, 15]}
+				{"coordinates": [-4, 0, -5, 4, 0, 3], "textureOffset": [9, 33]}
 			]
 		},
 		{
@@ -122,7 +122,7 @@
 			"boxes": [
 				{"coordinates": [0, 0, -2, 3, 5, 3], "textureOffset": [26, 0]},
 				{"coordinates": [0, 0, -2, 4, 5, 3], "textureOffset": [18, 52]},
-				{"coordinates": [0, 0, -5, 4, 0, 3], "textureOffset": [49, 15]}
+				{"coordinates": [0, 0, -5, 4, 0, 3], "textureOffset": [9, 33]}
 			]
 		}
 	]
